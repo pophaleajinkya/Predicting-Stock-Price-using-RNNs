@@ -1,6 +1,5 @@
 # Predicting-Stock-Price-using-RNNs
-
-In this homework assignment, your task is to develop recurrent neural network models to predict the stock price of a company of your choice. The goal is to use stock price data (open, high, low, and close data) from the prior 60 days to predict the close price of the stock 5 days into the future.  
+Our task is to develop recurrent neural network models to predict the stock price of a company of your choice. The goal is to use stock price data (open, high, low, and close data) from the prior 60 days to predict the close price of the stock 5 days into the future.  
 
 First, follow the steps below to download ~15 years of historical data on the stock price of your favorite company.
 
